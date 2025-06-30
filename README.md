@@ -74,14 +74,14 @@
 
 <br>
 
-## ⌨️ Практика и стажировка
+<!--## ⌨️ Практика и стажировка
 [<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Auto.ae»">](https://raw.githubusercontent.com/)
 [<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/)
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/)
+[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/) -->
 
 <br>
 <br>
